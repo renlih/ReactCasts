@@ -17,6 +17,5 @@ var options = {
   }]
 };
 
-
 var element = React.createElement(ThumbnailList, options);
 React.render(element, document.querySelector('.container'));
